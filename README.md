@@ -1,17 +1,18 @@
 <div align="center">
 
+<img src="https://github.com/zubairkhan-ai.png" width="150" style="border-radius:50%;">
+
 # 👋 Hi, I'm Zubair Khan
 
-## 🤖 Artificial Intelligence Student | Machine Learning Developer | Python Engineer
+## 🤖 AI Engineer | Machine Learning Developer | Python Engineer
 
-Building intelligent applications using Machine Learning, Generative AI, Large Language Models, and Retrieval-Augmented Generation.
+Building intelligent applications using Machine Learning, Deep Learning, Generative AI, Large Language Models, and Retrieval-Augmented Generation.
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=Zubair-khan0723&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=zubairkhan-ai&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 </div>
-
 
 ---
 
@@ -19,7 +20,7 @@ Building intelligent applications using Machine Learning, Generative AI, Large L
 
 I am an Artificial Intelligence student passionate about developing intelligent systems and AI-powered applications.
 
-My focus is on building practical solutions using:
+My focus areas include:
 
 - Machine Learning
 - Deep Learning
@@ -27,15 +28,14 @@ My focus is on building practical solutions using:
 - Generative AI
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
-- AI-powered automation
+- AI Agents
+- AI Automation
 
-I enjoy transforming ideas into real-world applications by combining artificial intelligence, software engineering, and data-driven approaches.
-
+I enjoy transforming ideas into real-world solutions by combining artificial intelligence, software engineering, and data-driven approaches.
 
 ---
 
 # 🧠 Technical Skills
-
 
 ## Programming Languages
 
@@ -51,21 +51,21 @@ I enjoy transforming ideas into real-world applications by combining artificial 
 
 ---
 
-## Artificial Intelligence
+# 🤖 Artificial Intelligence
 
 - Machine Learning
 - Deep Learning
-- Natural Language Processing (NLP)
+- Natural Language Processing
 - Computer Vision
 - Generative AI
-- Large Language Models (LLMs)
+- Large Language Models
 - Retrieval-Augmented Generation (RAG)
 - AI Agents
 
 
 ---
 
-## Machine Learning & Data Science
+# 📊 Machine Learning & Data Science
 
 - Data Cleaning
 - Exploratory Data Analysis
@@ -79,13 +79,14 @@ I enjoy transforming ideas into real-world applications by combining artificial 
 
 ---
 
-## Libraries & Frameworks
+# 🛠️ Libraries & Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,react,nodejs,flask,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,react,nodejs,flask,mysql,git,github,vscode"/>
 </p>
 
-### AI & Machine Learning Libraries
+
+### AI & Data Libraries
 
 - NumPy
 - Pandas
@@ -93,6 +94,8 @@ I enjoy transforming ideas into real-world applications by combining artificial 
 - Scikit-learn
 - TensorFlow
 - PyTorch
+- LangChain
+
 
 ---
 
@@ -101,139 +104,113 @@ I enjoy transforming ideas into real-world applications by combining artificial 
 
 ## 🧠 GitHub AI Repository Analyzer
 
-An end-to-end Machine Learning application that predicts GitHub repository success probability and analyzes repository health using GitHub API data.
+An end-to-end AI application that analyzes GitHub repositories and predicts repository success probability using Machine Learning and GitHub API data.
 
-The system combines Machine Learning, data analytics, and interactive visualization to evaluate repository growth potential based on developer activity and community engagement metrics.
+### Features
 
-
-### 🔥 Key Features
-
-- GitHub repository analysis
-- Repository success prediction
-- Repository health scoring
-- Community strength evaluation
+- Repository health analysis
+- Success probability prediction
 - Developer activity analysis
+- Community engagement evaluation
 - Growth potential estimation
 - Interactive analytics dashboard
 - Feature importance visualization
 
 
-### 🧠 Machine Learning Pipeline
+### Machine Learning Pipeline
 
 - Data preprocessing
+- Feature engineering
 - Log transformation
-- Feature scaling
+- Model training
 - Logistic Regression classification
 - Probability-based prediction
 
 
-### 🛠️ Technologies
+### Technologies
 
-Python • Streamlit • Scikit-learn • Pandas • NumPy • Plotly • GitHub REST API
+Python • Streamlit • Scikit-learn • Pandas • NumPy • Plotly • GitHub API
 
 
-🌐 **Live Demo**
+🌐 Live Demo:
 
 https://app-ai-repository-analyzer-dkh7qdqcc7vqvbma58wr5s.streamlit.app/
 
 
-🔗 **Repository**
+🔗 Repository:
 
-https://github.com/Zubair-khan0723/github-ai-repository-analyzer
-
+https://github.com/zubairkhan-ai/github-ai-repository-analyzer
 
 
 ---
-
 
 # 🤖 AlgoOracle AI
 
 ## Intelligent Algorithm Prediction System using Machine Learning & NLP
 
 
-AlgoOracle is an AI-powered system that predicts suitable algorithms for programming problems using Machine Learning and Natural Language Processing.
+AlgoOracle predicts suitable algorithms for programming problems using Machine Learning and Natural Language Processing.
 
-The system helps developers understand not only **which algorithm to choose**, but also **why the algorithm is appropriate**.
+The system helps developers understand not only **which algorithm to choose**, but also **why it is suitable**.
 
 
-### 🔥 Key Features
+### Features
 
-- Machine Learning based algorithm prediction
+- Algorithm recommendation
 - NLP-based problem understanding
-- AI assistant with reasoning
+- AI reasoning assistant
 - Explainable AI visualization
-- Algorithm knowledge graph
 - Confidence-based predictions
 
 
-### 🧠 Machine Learning Model
-
-**Model:**
+### Model
 
 Decision Tree Classifier
 
 
-**Features:**
-
-- Graph problems
-- Recursion
-- Dynamic Programming
-- Searching
-- Sorting
-- Shortest Path
-- Sliding Window
-
-
-### 🛠️ Technologies
+### Technologies
 
 Python • Streamlit • Scikit-learn • NLP • Plotly
 
 
-🌐 **Live Demo**
+🌐 Live Demo:
 
 https://zubair-khan0723-algooracle-ai-app-6wkix0.streamlit.app/
 
 
-🔗 **Repository**
+🔗 Repository:
 
-https://github.com/Zubair-khan0723/AlgoOracle-AI
-
+https://github.com/zubairkhan-ai/AlgoOracle-AI
 
 
 ---
-
 
 # 🎥 YouTube Video RAG Question Answering System
 
 
-A Retrieval-Augmented Generation (RAG) application that allows users to ask questions about YouTube videos and receive context-aware AI-generated answers.
+A Retrieval-Augmented Generation application that allows users to ask questions about YouTube videos and receive context-aware AI-generated answers.
 
 
-The system transforms video content into a searchable knowledge base using embeddings and retrieval techniques.
-
-
-### 🔥 Key Features
+### Features
 
 - YouTube transcript extraction
 - Document processing pipeline
 - Semantic search
-- Context-aware question answering
-- Knowledge retrieval using RAG
+- Vector-based retrieval
+- AI-powered question answering
 
 
-### 🛠️ Technologies
+### Technologies
 
 Python • LangChain • LLMs • Embeddings • Vector Database • RAG
 
 
-
 ---
 
+# 🌐 Web Development
 
-# 🌐 Web Development Projects
 
-
-Building modern full-stack applications using frontend and backend technologies.
+Building full-stack applications using modern technologies.
 
 
 ### Technologies
@@ -247,9 +224,7 @@ Building modern full-stack applications using frontend and backend technologies.
 
 ---
 
-
 # 🎓 Certifications
-
 
 - Python for Everybody Specialization
 - Using Python to Access Web Data
@@ -264,17 +239,13 @@ Building modern full-stack applications using frontend and backend technologies.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zubair-khan0723&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=zubairkhan-ai&show_icons=true&theme=tokyonight"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubairkhan-ai&layout=compact&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zubair-khan0723&layout=compact&theme=tokyonight"/>
+<br>
 
-</div>
-
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zubair-khan0723&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zubairkhan-ai&theme=tokyonight"/>
 
 </div>
 
@@ -282,7 +253,6 @@ Building modern full-stack applications using frontend and backend technologies.
 ---
 
 # 🎯 Professional Goals
-
 
 - Build production-level AI applications
 - Develop scalable Generative AI systems
@@ -296,17 +266,17 @@ Building modern full-stack applications using frontend and backend technologies.
 # 🤝 Connect With Me
 
 
-GitHub:
+**GitHub**
 
-https://github.com/Zubair-khan0723
-
-
-LinkedIn:
-
-(https://www.linkedin.com/in/zubair-khan-198a4a331/)
+https://github.com/zubairkhan-ai
 
 
-Email:
+**LinkedIn**
+
+https://www.linkedin.com/in/zubair-khan-198a4a331/
+
+
+**Email**
 
 zubair.0723khan@gmail.com
 

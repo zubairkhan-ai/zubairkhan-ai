@@ -82,18 +82,17 @@ I enjoy transforming ideas into real-world applications by combining artificial 
 ## Libraries & Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,flask,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,react,nodejs,flask,mysql,git,github,vscode"/>
 </p>
+
+### AI & Machine Learning Libraries
 
 - NumPy
 - Pandas
 - Matplotlib
 - Scikit-learn
-- Streamlit
-- Flask
-- React.js
-- Node.js
-
+- TensorFlow
+- PyTorch
 
 ---
 
